@@ -1,0 +1,15 @@
+PODS:
+  - VXDataPageServiceProcotol (0.0.1)
+  - VXProtocolManager (0.0.3)
+
+DEPENDENCIES:
+  - VXDataPageServiceProcotol (~> 0.0.1)
+  - VXProtocolManager
+
+SPEC CHECKSUMS:
+  VXDataPageServiceProcotol: 8470e0cf57983c1fb76923a62efa8e2f1b1951ae
+  VXProtocolManager: 23930025df1569999527cd61687052fd3fa5675e
+
+PODFILE CHECKSUM: 6327b7f5b88185a2389b545f84558533d6975db3
+
+COCOAPODS: 1.2.0
