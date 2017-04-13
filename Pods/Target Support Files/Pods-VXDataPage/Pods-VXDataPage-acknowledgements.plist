@@ -19,6 +19,28 @@
 			<key>License</key>
 			<string>MIT</string>
 			<key>Title</key>
+			<string>VXCommonPage</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>MIT
+</string>
+			<key>License</key>
+			<string>MIT</string>
+			<key>Title</key>
+			<string>VXCommonPageServicePtotocol</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>MIT
+</string>
+			<key>License</key>
+			<string>MIT</string>
+			<key>Title</key>
 			<string>VXDataPageServiceProcotol</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>

@@ -4,6 +4,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'VXDataPage' do
     pod 'VXProtocolManager'
     pod 'VXDataPageServiceProcotol','~>0.0.1’
-    
+    pod 'VXCommonPage'
     
 end

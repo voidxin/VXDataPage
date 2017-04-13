@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4BA0878AC626F8F9DB6BDE0A30082645'
-               BlueprintName = 'Pods-VXDataPage'
+               BlueprintIdentifier = '3928D16A4DF6BBE94DC73B1B1D27EB64'
+               BlueprintName = 'VXCommonPage'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libPods-VXDataPage.a'>
+               BuildableName = 'libVXCommonPage.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
